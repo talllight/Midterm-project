@@ -40,7 +40,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("===== 대학생을 위한 학점 계산기 =====");
+        System.out.println("==== 대학생을 위한 학점 계산기 ====");
 
         while (true) {
             System.out.print("과목명 입력 (종료하려면 '끝' 입력): ");
